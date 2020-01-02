@@ -1,0 +1,2 @@
+include ':app', ':play-tools', ':play-logger'
+rootProject.name='play-utils'
