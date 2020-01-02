@@ -41,7 +41,7 @@ dependencies {
 //    compileOnly "com.orhanobut:logger:2.2.0"
 }
 
-def siteUrl = 'https://github.com/fhammer/play-utils'   // 项目的主页
+def siteUrl = 'https://github.com/fhammer/play-android'   // 项目的主页
 
 publish {
     repoName = 'play-utils'
